@@ -10,11 +10,22 @@
 
 ---
 
-## World Affairs
+## General Reading
 
-* [The Economist](https://www.economist.com/) $$
-* [Foreign Affairs](https://www.foreignaffairs.com/) $
-* [War on the Rocks](https://warontherocks.com/)
+* [National Geographic](https://www.nationalgeographic.com/) ➕ $
+* [Wired](https://www.wired.com/) $
+* [The Atlantic](https://www.theatlantic.com/) $
+
+---
+
+## Good News & Human Progress
+
+* [Our World in Data](https://ourworldindata.org/) ➕
+* [Gapminder](https://www.gapminder.org/) ➕
+* [NASA News](https://www.nasa.gov/news/) ➕
+* [The Planetary Society](https://www.planetary.org/) ➕
+* [Good Good Good](https://www.goodgoodgood.co/) ➕
+* [Reasons to be Cheerful](https://reasonstobecheerful.world/) ➕
 
 ---
 
@@ -58,19 +69,8 @@
 
 ---
 
-## Additional Reading
+## World Affairs
 
-* [National Geographic](https://www.nationalgeographic.com/) ➕ $
-* [Wired](https://www.wired.com/) $
-* [The Atlantic](https://www.theatlantic.com/) $
-
----
-
-## Additional Good News & Human Progress
-
-* [Our World in Data](https://ourworldindata.org/) ➕
-* [Gapminder](https://www.gapminder.org/) ➕
-* [NASA News](https://www.nasa.gov/news/) ➕
-* [The Planetary Society](https://www.planetary.org/) ➕
-* [Good Good Good](https://www.goodgoodgood.co/) ➕
-* [Reasons to be Cheerful](https://reasonstobecheerful.world/) ➕
+* [The Economist](https://www.economist.com/) $$
+* [Foreign Affairs](https://www.foreignaffairs.com/) $
+* [War on the Rocks](https://warontherocks.com/)
