@@ -50,7 +50,7 @@
 
 ## Good News & Human Progress
 
-* [Our World in Data Articles](https://ourworldindata.org/latest)
+* [Our World in Data Articles](https://ourworldindata.org/latest) ➕
 * [NASA News](https://www.nasa.gov/news/) ➕
 * [The Planetary Society](https://www.planetary.org/) ➕
 * [Good Good Good](https://www.goodgoodgood.co/) ➕
