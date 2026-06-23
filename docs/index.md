@@ -38,6 +38,14 @@
 
 ---
 
+## AI Governance & Policy
+
+* [Tech Policy Press](https://www.techpolicy.press/)
+* [Lawfare Cybersecurity & Tech](https://www.lawfaremedia.org/topics/cybersecurity-tech)
+* [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/)
+
+---
+
 ## Science
 
 * [Quanta Magazine](https://www.quantamagazine.org/) ➕
@@ -54,6 +62,14 @@
 
 ---
 
+## Energy & Grid
+
+- [Latitude Media](https://www.latitudemedia.com/)
+- [Canary Media](https://www.canarymedia.com/)
+- [Utility Dive](https://www.utilitydive.com/)
+
+---
+
 ## Environment & Energy
 
 * [Carbon Brief](https://www.carbonbrief.org/) ➕
@@ -63,9 +79,13 @@
 
 ## Engineering & Infrastructure
 
-* [IEEE Spectrum](https://spectrum.ieee.org/) ➕
-* [FreightWaves](https://www.freightwaves.com/) ➕
-* [MIT Technology Review](https://www.technologyreview.com/) ➕ $
+* [Construction Physics](https://www.construction-physics.com/)
+* [Institute for Progress](https://ifp.org/)
+
+## Privacy
+
+* [The Markup](https://themarkup.org/)
+* [EFF Deeplinks](https://www.eff.org/deeplinks)
 
 ---
 
