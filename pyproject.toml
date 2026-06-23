@@ -1,0 +1,20 @@
+# ============================================================
+# pyproject.toml
+# ============================================================
+
+[project]
+name = "reading-room"
+version = "0.1.0"
+description = "Sources to browse for news."
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []
+
+[project.optional-dependencies]
+dev = []
+docs = [
+  "zensical",
+]
+
+[tool.uv]
+package = false
